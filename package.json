@@ -1,0 +1,7 @@
+{
+  "name": "zaym-20000",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -s . -l $PORT"
+  }
+}
